@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Convertx</string>
+    <string name="convert_x">Convert(x)</string>
+    <string name="converter">Converter</string>
+
+    <array name="moedas">
+        <item>BRL</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>CHF</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>ARS</item>
+        <item>CLP</item>
+        <item>CAD</item>
+    </array>
+
+</resources>
